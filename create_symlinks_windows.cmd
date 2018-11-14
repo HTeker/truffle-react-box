@@ -1,0 +1,1 @@
+mklink /J client\src\contracts build\contracts
